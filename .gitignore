@@ -1,0 +1,12 @@
+# File types to ignore
+*.csv
+*.xlsx
+*.pkl
+*.pyc
+*.R
+*.kv
+*.npy
+.vscode
+*~
+*.swp
+**/.DS_Store
