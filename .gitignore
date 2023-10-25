@@ -3,7 +3,6 @@
 *.xlsx
 *.pkl
 *.pyc
-*.R
 *.kv
 *.npy
 .vscode
